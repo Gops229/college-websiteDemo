@@ -1,0 +1,42 @@
+#whole-body {
+  font-family: "Poppins", sans-serif;
+}
+
+.sides-80 {
+  padding-left: 80px !important;
+  padding-right: 80px !important;
+}
+.row {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+.list-item {
+  border: 5px solid #0974f1;
+
+  /* font-family: "Poppins", sans-serif; */
+}
+
+#header-section {
+  background-color: #86bdf9;
+}
+
+.title {
+  padding: 5px;
+}
+.title-div {
+  text-align: center;
+  height: 3em;
+
+  background-color: #86bdf9;
+  color: #0d41e1;
+  margin-bottom: 20px;
+}
+
+.desc {
+  line-height: 2;
+}
+
+footer {
+  background-color: #86bdf9;
+}
